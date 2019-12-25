@@ -18,7 +18,7 @@ public class loginTest extends BaseTest {
 		LoginPage lp = home.goToLogin();
 		// LoginPage login = new LoginPage();
 		lp.doLogin(table.get("username"), table.get("password"));
-		Assert.fail("Login test failing to check screenshot");
+		//Assert.fail("Login test failing to check screenshot");
 	}
 
 	public static void main(String[] args) {
