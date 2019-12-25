@@ -1,16 +1,16 @@
-24/12/2019 21:12:54 devpinoyLogger Config file loaded
-24/12/2019 21:12:55 devpinoyLogger OR file loaded
-24/12/2019 21:13:30 devpinoyLogger Chrome Launched
-24/12/2019 21:14:26 devpinoyLogger Navigated to: http://www.zoho.com/
-24/12/2019 21:14:50 devpinoyLogger clicking on an element: LoginButton_XPATH
-24/12/2019 21:15:01 devpinoyLogger Typing in an element: EmailAddress_XPATH as Value: prashantvitore@gmail.com
-24/12/2019 21:15:06 devpinoyLogger clicking on an element: NextButton_XPATH
-24/12/2019 21:15:09 devpinoyLogger Typing in an element: PasswordButton_XPATH as Value: Prashantvitore@005
-24/12/2019 21:15:18 devpinoyLogger clicking on an element: SignInButton_XPATH
-24/12/2019 21:15:58 devpinoyLogger clicking on an element: CRMbutton_XPATH
-24/12/2019 21:16:00 devpinoyLogger clicking on an element: AccountsTab_XPATH
-24/12/2019 21:16:02 devpinoyLogger clicking on an element: AccountsPageCreateAcc_XPATH
-24/12/2019 21:16:04 devpinoyLogger Typing in an element: AccountName_XPATH as Value: RoomAccount
-24/12/2019 21:16:04 devpinoyLogger Typing in an element: AccountSite_XPATH as Value: Room402.com
-24/12/2019 21:16:05 devpinoyLogger Typing in an element: ParentAccount_XPATH as Value: King (Sample)
-24/12/2019 21:16:05 devpinoyLogger Typing in an element: AccountNumber_XPATH as Value: 4.02402402E8
+25/12/2019 12:28:37 devpinoyLogger Config file loaded
+25/12/2019 12:28:38 devpinoyLogger OR file loaded
+25/12/2019 12:29:25 devpinoyLogger Chrome Launched
+25/12/2019 12:29:49 devpinoyLogger Navigated to: http://www.zoho.com/
+25/12/2019 12:30:28 devpinoyLogger clicking on an element: LoginButton_XPATH
+25/12/2019 12:30:34 devpinoyLogger Typing in an element: EmailAddress_XPATH as Value: prashantvitore@gmail.com
+25/12/2019 12:30:37 devpinoyLogger clicking on an element: NextButton_XPATH
+25/12/2019 12:30:39 devpinoyLogger Typing in an element: PasswordButton_XPATH as Value: Prashantvitore@005
+25/12/2019 12:30:43 devpinoyLogger clicking on an element: SignInButton_XPATH
+25/12/2019 12:31:51 devpinoyLogger clicking on an element: CRMbutton_XPATH
+25/12/2019 12:31:59 devpinoyLogger clicking on an element: AccountsTab_XPATH
+25/12/2019 12:32:02 devpinoyLogger clicking on an element: AccountsPageCreateAcc_XPATH
+25/12/2019 12:32:11 devpinoyLogger Typing in an element: AccountName_XPATH as Value: RoomAccount
+25/12/2019 12:32:12 devpinoyLogger Typing in an element: AccountSite_XPATH as Value: Room402.com
+25/12/2019 12:32:13 devpinoyLogger Typing in an element: ParentAccount_XPATH as Value: King (Sample)
+25/12/2019 12:32:13 devpinoyLogger Typing in an element: AccountNumber_XPATH as Value: 4.02402402E8

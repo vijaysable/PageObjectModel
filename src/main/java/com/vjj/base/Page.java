@@ -223,7 +223,7 @@ public class Page {
 	
 	public static void quit() {
 		
-		//driver.quit();
+		driver.quit();
 	}
 
 
